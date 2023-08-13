@@ -7,7 +7,7 @@ For this week's challenge we used our knowledge of HTML elements, Chrome DevTool
 We then scraped a Mars weather/temperature site, and extracted values from the sites table and performed data analysis using Pandas on the weather data.
 
 
-### Part 1 - [Scraping the Mars news website](https://static.bc-edx.com/data/web/mars_news/index.html){:target="_blank"} 🪐📰:
+### Part 1 - Scraping the [Mars news website](https://static.bc-edx.com/data/web/mars_news/index.html){:target="_blank"} 🪐📰:
 
 Jupyter Notebook code file: [part_1_mars_news.ipynb](https://github.com/amcl11/web-scraping-challenge/blob/main/part_1_mars_news.ipynb)
 

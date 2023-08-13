@@ -8,7 +8,7 @@ We then scraped a Mars weather/temperature site, and extracted values from the s
 
 <br>
 <br>
-<br>
+
 ### Part 1 - Scraping the [Mars news website](https://static.bc-edx.com/data/web/mars_news/index.html) 🪐📰:
 
 Jupyter Notebook code file: [part_1_mars_news.ipynb](https://github.com/amcl11/web-scraping-challenge/blob/main/part_1_mars_news.ipynb)
@@ -19,7 +19,7 @@ The final output for Part 1 includes the Mars news article titles and previews s
 
 <br>
 <br>
-<br>
+
 ### Part 2 - Scraping the [Mars weather data website](https://static.bc-edx.com/data/web/mars_facts/temperature.html) 🪐☀️🌦️:
 
 Jupyter Notebook code file: [part_2_mars_weather.ipynb](https://github.com/amcl11/web-scraping-challenge/blob/main/part_2_mars_weather.ipynb)

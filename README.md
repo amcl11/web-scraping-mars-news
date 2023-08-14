@@ -26,3 +26,5 @@ Section 2 requires Splinter, Beautiful Soup, Matplotlib, and Pandas.
 
 The final scraped weather data is stored in the CSV file [mars_analysis.csv](https://github.com/amcl11/web-scraping-challenge/blob/main/mars_analysis.csv)
 
+### References
+The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from [NASA's Mars News](https://mars.nasa.gov/) website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech.

@@ -1,8 +1,8 @@
-# Web-Scraping Challenge - Module 11 Data Analytics Bootcamp 
+# Web-Scraping - Mars News
 
 ## Project Description: 
 
-For this week's challenge we used our knowledge of HTML elements, Chrome DevTools, and Beautiful Soup to scrape titles and previews from news articles on a Mars news website.
+Using knowledge of HTML elements, Chrome DevTools, and Beautiful Soup to scrape titles and previews from news articles on a Mars news website.
 
 We then scraped a Mars weather/temperature site, and extracted values from the sites table and performed data analysis using Pandas on the weather data.
 <br>
